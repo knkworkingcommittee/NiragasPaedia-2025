@@ -1,5 +1,6 @@
 # NiragasPaedia-2025
 Nurturing Knowledge for the Youngest Lives
+
 *Introduction*
 
 The health and well-being of children form the foundation of a thriving society. With rapid advances in medical science and evolving healthcare needs, it is essential that paediatric care continues to grow in precision, compassion, and innovation. Niragas'Paedia: Nurturing Knowledge for the Youngest Lives is a Continuing Medical Education (CME) initiative aimed at empowering paediatricians, child healthcare providers, and allied professionals with the latest clinical insights, research updates, and evidence-based practices. This forum brings together thought leaders and young minds dedicated to enhancing paediatric care and strengthening the health systems that support the youngest members of our communities.
