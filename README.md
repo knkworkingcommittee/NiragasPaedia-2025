@@ -11,4 +11,4 @@ We are proud to present the digital edition of Niragas'Paedia: Nurturing Knowled
 
 In an era where continuous learning and real-time access to information are critical, this e-book bridges the gap between academic knowledge and clinical application. It offers concise, evidence-based content tailored to modern paediatric practice, covering a spectrum of topics ranging from neonatal care to adolescent health and emerging infections. More than just a documentation of the CME proceedings, this e-book is a living resource—designed to inspire further research, foster clinical excellence, and support the everyday decision-making of healthcare providers dedicated to safeguarding the health of our youngest population.
 
-📂  **[1. Surgiscope Diabetic Foot](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Surgiscope%20Diabetic%20Foot.pdf)**
+📂  **[1.Urinary Tract Infection (UTI) in Children](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Urinary%20Tract%20Infection.pdf)**
