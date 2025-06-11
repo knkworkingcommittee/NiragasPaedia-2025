@@ -13,17 +13,15 @@ In an era where continuous learning and real-time access to information are crit
 
 📂  **[1.Urinary Tract Infection (UTI) in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/1.%20Urinary%20Tract%20Infection.pdf)**
 
-(https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/2.%20Recurrent%20Wheezers%20.pdf)
-
 📂  **[2.Recurrent Wheezers Below Five Years of Age](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/2.%20Recurrent%20Wheezers%20.pdf)**
 
 📂  **[3.Common Pediatric Emergencies in OPD](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/3.%20Common%20Pediatric%20Emergencies%20in%20OPD.pdf)**
 
 Ayurvedic Approach
 
-📂  **[4.Ayurvedic Perspective on Recurrent Wheezing in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/4.%20Ayurvedic%20Perspective%20on%20Recurrent%20Wheezing%20in%20Children.pdf)**
+📂  **[4.Ayurvedic Perspective on Recurrent Wheezing in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/4.Ayurvedic%20Perspective%20on%20Recurrent%20Wheezing%20in%20Children.pdf)**
 
-📂  **[5.Ayurvedic Perspective on UTI in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/5.%205.Ayurvedic%20Perspective%20on%20UTI%20in%20Children.pdf)**
+📂  **[5.Ayurvedic Perspective on UTI in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/5.%20Ayurvedic%20Perspective%20on%20UTI%20in%20Children.pdf)**
 
 Wish you a happy learning!
 
