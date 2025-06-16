@@ -23,5 +23,13 @@ Ayurvedic Approach
 
 📂  **[5.Ayurvedic Perspective on UTI in Children](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/5.%20Ayurvedic%20Perspective%20on%20UTI%20in%20Children.pdf)**
 
+Homeopathic Approach
+
+📂  **[Recurrent Wheezing in Children Under 5 Years A Homeopathic Perspective](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/Recurrent%20Wheezing%20in%20Children%20Under%205%20Years%20A%20Homeopathic%20Perspective.pdf)**
+
+
+📂  **[Pediatric Emergencies and Homeopathic Management](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/Pediatric%20Emergencies%20and%20Homeopathic%20Management.pdf)**
+
+
 Wish you a happy learning!
 
